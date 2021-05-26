@@ -1,0 +1,1 @@
+run = "LC_ALL=C.UTF-8 nix-shell /opt/nixproxy.nix --argstr repldir $PWD --command 'jconsole main.ijs'"
